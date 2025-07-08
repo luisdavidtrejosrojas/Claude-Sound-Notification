@@ -1,0 +1,21 @@
+The Claude Sound Notification extension does not collect, store, or transmit any user data whatsoever.
+
+What we DON'T do:
+- We do not collect personal information
+- We do not track your browsing activity
+- We do not store any data locally or remotely
+- We do not use analytics or tracking services
+- We do not share any information with third parties
+
+What the extension DOES:
+- Monitors claude.ai pages locally to detect when responses complete
+- Plays a notification sound stored within the extension
+- Saves your volume and enable/disable preferences locally in your browser
+
+All functionality operates entirely within your browser. No external servers are contacted, and no data ever leaves your device.
+
+Permissions used:
+- "storage" - Only to save your volume and enable/disable preferences locally
+- "tabs" - Only to detect if you're on claude.ai
+
+If you have any questions about this privacy policy, please create an issue on our GitHub repository at https://github.com/luisdavidtrejosrojas/Claude-Sound-Notification
