@@ -9,7 +9,7 @@
   <p>
     • Adjustable volume control<br>
     • Enable/disable toggle<br>
-    • Save the preferences
+    • Save preferences
   </p>
 </div>
 
