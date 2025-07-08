@@ -26,6 +26,7 @@
 3. Open your browser's extension management page:
    - **Chrome**: `chrome://extensions/`
    - **Edge**: `edge://extensions/`
+   - **Opera/Opera GX**: `opera://extensions/`
 4. Enable "Developer mode"
 5. Click "Load unpacked" and select the extracted folder
 
